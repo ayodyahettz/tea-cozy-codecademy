@@ -1,0 +1,160 @@
+*{
+    font-family: Helvetica, Arial, sans-serif;
+    color: seashell;
+    font-size: 22px;
+    text-align: center;
+}   
+
+body{
+    background-color: black;
+}
+
+h2{
+    font-size: 26px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+body{
+    opacity: 0.9;
+}
+
+nav{
+    height: 69px;
+    margin-top: -22px;
+    padding-top: 25px;
+    padding-left: 15px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    /* position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 999; */
+}
+
+#logo{
+    height: 50px;
+}
+
+nav .container{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
+
+.item{
+    padding-left: 20px;
+}
+
+#links{
+    position: relative;
+    left: 690px;
+    top: -5px;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(166, 175, 182);
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    height: 400px;
+}
+
+.mission{
+    margin: 10px;
+}
+
+.img-mission{
+    background-color: pink;
+    background-image: url('/assets/img/img-mission-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mission-statement{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.title{
+    text-align: center;
+    background-color: transparent;
+}
+
+.featured-container{
+    text-align: center;
+    display: inline-flex;
+    height: auto;
+    max-width: 1000px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.featured-item img{
+    height: 200px;
+    width: 300px;
+    padding: 10px 10px;
+}
+
+.box-container{
+    max-width: 1050px;
+    margin: 15px auto auto auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-location{
+    background-image: url('/assets/img/img-locations-background.jpg');
+    height: 500px;
+    max-width: 1200px;
+    margin: 40px auto auto auto;
+    padding-top: 85px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.locations{
+    opacity: 1;
+    height: 345px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: black;
+    flex-basis: 30%;
+    margin-bottom: auto;
+    padding-top: 45px;
+}
+
+/* responsive design */
+@media only screen and (max-width: 400px) {
+   
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar{
+    width: 5px;
+    height: 0px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: black;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: silver;
+}
+
+::-webkit-scrollbar-hover{
+    background: #555;
+}
