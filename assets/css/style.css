@@ -75,7 +75,7 @@ a:hover{
 }
 
 .img-mission{
-    background-image: url('./assets/img/img-mission-background.jpg');
+    background-image: url('https://github.com/ayodyahettz/tea-cozy-codecademy/blob/main/assets/img/img-mission-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
