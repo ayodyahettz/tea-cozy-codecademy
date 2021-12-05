@@ -75,8 +75,7 @@ a:hover{
 }
 
 .img-mission{
-    background-color: pink;
-    background-image: url('/assets/img/img-mission-background.jpg');
+    background-image: url('./assets/img/img-mission-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -115,7 +114,7 @@ a:hover{
 }
 
 .main-location{
-    background-image: url('/assets/img/img-locations-background.jpg');
+    background-image: url('./assets/img/img-locations-background.jpg');
     height: 500px;
     max-width: 1200px;
     margin: 40px auto auto auto;
