@@ -10,12 +10,19 @@ The images and design spec you need to complete the project are listed below.
 Images:
 
 Logo https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png
+
 Bedford Bizarre https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg
+
 Berry Blitz https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg
+
 Donut https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg
+
 Locations https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg
+
 Background https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg
+
 Myrtle Ave https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg
+
 Spiced Rum https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg
 
 Design Spec:
